@@ -1,0 +1,54 @@
+2
+1
+Ola Hansen
+Pilestredet 35, Oslo
++47 90111222
+---
+2
+Mia Berg
+Fjordveien 10, Drammen
++47 90888777
+---
+5
+Terraforming Mars
+Strategispill om kolonisering av Mars
+2016
+1
+STRATEGY
+120
+5
+Engine Building
+---
+Catan
+Bygg veier og bosetninger
+1995
+1
+FAMILY
+10
+false
+---
+Codenames
+Ordspill for lag
+2015
+2
+PARTY
+4
+false
+---
+Risk
+Klassisk erobringsspill
+2008
+2
+STRATEGY
+180
+3
+War
+---
+Hitster
+Musikkquiz med mobilapp
+2022
+2
+PARTY
+2
+true
+---

@@ -1,0 +1,78 @@
+2
+2
+Mia Berg
+Fjordveien 10, Drammen
++47 90888777
+---
+4
+Julie Andersen
+Nedre gate 22, Stavanger
++47 96666111
+---
+8
+Kingdomino
+Dominobasert familiespill
+2016
+2
+FAMILY
+8
+false
+---
+Carcassonne
+Bygg landskap i middelalderen
+2000
+2
+FAMILY
+5
+false
+---
+Alias
+Forklar ord under tidspress
+2014
+2
+PARTY
+4
+false
+---
+Pandemic
+Samarbeidsspill om sykdomsbekjempelse
+2008
+2
+STRATEGY
+60
+3
+Cooperative
+---
+Monopoly
+Kjøp og salg av eiendom
+2019
+4
+FAMILY
+8
+nei
+---
+Secret Hitler
+Sosial deduksjon
+2016
+4
+PARTY
+5
+false
+---
+Twilight Struggle
+Kald krig-strategispill
+2005
+4
+STRATEGY
+180
+6
+War
+---
+Dixit
+Kreativt bildespill
+2008
+4
+PARTY
+3
+false
+---

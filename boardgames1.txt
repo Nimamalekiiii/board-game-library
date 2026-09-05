@@ -1,0 +1,40 @@
+1
+3
+Emma Kristiansen
+Kirkegata 12, Trondheim
++47 93444555
+---
+4
+Azul
+Flisleggingsspill
+2017
+3
+FAMILY
+8
+false
+---
+Ticket to Ride
+Togspill
+2004
+3
+FAMILY
+8
+false
+---
+7 Wonders
+Sivilisasjonsbygging
+201O
+3
+STRATEGY
+100
+4
+Civilization
+---
+Just One
+Samarbeidsbasert ordspill
+2018
+3
+PARTY
+3
+false
+---
