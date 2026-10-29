@@ -1,8 +1,8 @@
-# Board Game Library 🎲
+# Board Game Library 
 
 A Java-based board game library application developed as a software development project.
 
-## 📌 About
+##  About
 
 This project is a Java application for managing a collection of board games and related data.
 
